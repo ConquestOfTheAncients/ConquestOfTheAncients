@@ -17426,13 +17426,13 @@
 			"03"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"freeze_cooldown"		"1.0 0.92 0.84 0.76 0.68 0.60 0.52 0.44"
+				"freeze_cooldown"		"1.0 0.91 0.82 0.73 0.64 0.55 0.46"
 				"levelkey"				"quaslevel"	
 			}
 			"04"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"freeze_damage"			"15 20 25 30 35 40 45 50"
+				"freeze_damage"			"20 25 30 35 40 45 50"
 				"levelkey"				"quaslevel"	
 			}
 			"05"
