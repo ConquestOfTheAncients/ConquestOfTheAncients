@@ -1,5 +1,10 @@
-puck fudge
+general balance reforms
+int: mana 13 > 20 	regen 0.04 > 0.1
+agi: armor .14 > .2 	attack speed 1 > 1.5
+str: health 19 > 25 	regen 0.03 > 0.1
 
+
+hero specific
 Abaddon
 Lord of Avernus
 

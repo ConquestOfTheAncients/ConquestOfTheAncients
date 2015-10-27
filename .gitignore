@@ -245,3 +245,6 @@ pip-log.txt
 !/game/dota_addons/ConquestOfTheAncients/
 /platform/
 steam_appid.txt
+/config/
+/dota_lv/
+/dota_ugc/
